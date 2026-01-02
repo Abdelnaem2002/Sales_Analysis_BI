@@ -4,7 +4,7 @@ I want to share my journey through a challenging task. The task was to analyze a
 
 
 ## Table of Contents
-- [Architecture Overview](#architecture-overview)
+
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#Prerequisites-workflow)
 - [Usage](#usage)
