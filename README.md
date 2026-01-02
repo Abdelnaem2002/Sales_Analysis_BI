@@ -1,7 +1,6 @@
 # Sales-Analysis-BI-End-to-End-Pipeline
 I want to share my journey through a challenging task. The task was to analyze and transform retail invoice  data collected monthly from February to May.
-. It demonstrates real-time data ingestion, processing, storage, and live analytics of different tools. The project utilizes a combination of Excel, SSIS, Power BI, SQL Server, and Power BI.
-
+. It demonstrates real-time data ingestion, processing, storage, and live analytics of different tools. The project utilizes a combination of Excel,  Power BI, SQL Server.
 
 ## Table of Contents
 
@@ -17,9 +16,8 @@ The project consists of a scalable, data pipeline that processes, and stores dat
 
 
 ### Key Components:
-1. **Data Analysis**: Analyze data using Excel And Power Pivot.
-2. **Data Pipeline (SSIS)**: Managed by SSIS To move And preprocess Into SQL Server.
-3. **Data Processing (SQL Server )**:
+1. **Data Analysis**: Analyze data using Excel and Power Pivot.
+2. **Data Processing (SQL Server )**:
     - First Step  Cleaning Data And Drop Unwanted Columns.
     - The second step builds Star Schema For Dimensions Tables And Fact and stores the results in SQL Server.
     - Third Step Move Data From the Sql Server To Power Bi.
@@ -27,19 +25,16 @@ The project consists of a scalable, data pipeline that processes, and stores dat
 ## Technologies Used
 
 - **Excel**: Data processing and analyzing data.
-- **SSIS**: Move Data Pipline.
 - **SQL Server**: Stores processed data and results.
 
 
 ### Prerequisites
 
 - **Microsoft Excel**.
-- **SSISe**.
 - **SQL Server**.
 
 ## Usage
 - Excel: Ensure Data is Good And Make Some Analysis.
-- SSIS: Use SSIS to manage and Move Data From Excel To SSIS.
 - SQL Server: SQL will process the data To Make Star Schema And Dim, Fact.
 
 
